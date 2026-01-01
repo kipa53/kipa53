@@ -1,2 +1,2 @@
 # SKILLS
-[![My Skills](https://skillicons.dev/icons?i=py)
+![My Skills](https://skillicons.dev/icons?i=py)
