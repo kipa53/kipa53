@@ -3,7 +3,7 @@ Elevated success rate in Pygame missions and full game deployments.
 
 
 # SKILLS
-# S+
+# A+
 ![My Skills](https://skillicons.dev/icons?i=py)
 # A
 ![My Skills](https://skillicons.dev/icons?i=js)
