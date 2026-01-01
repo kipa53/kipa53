@@ -1,9 +1,9 @@
 # SKILLS
-#S+
+# S+
 ![My Skills](https://skillicons.dev/icons?i=py)
-#A
+# A
 ![My Skills](https://skillicons.dev/icons?i=js)
-#A
+# A
 ![My Skills](https://skillicons.dev/icons?i=ar)
 
 
