@@ -1,2 +1,3 @@
 # SKILLS
-![My Skills](https://skillicons.dev/icons?i=py) S++
+S++
+![My Skills](https://skillicons.dev/icons?i=py)
