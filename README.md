@@ -1,3 +1,7 @@
+# PYGAME ENGINEER:
+Elevated success rate in Pygame missions and full game deployments.
+
+
 # SKILLS
 # S+
 ![My Skills](https://skillicons.dev/icons?i=py)
@@ -9,6 +13,4 @@
 ![My Skills](https://skillicons.dev/icons?i=arduino)
 
 
-# PYGAME ENGINEER:
-Elevated success rate in Pygame missions and full game deployments.
 
