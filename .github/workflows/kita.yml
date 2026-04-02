@@ -1,0 +1,31 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8
+
+      - name: Generate snake
+        uses: Platane/snk@a7b5c2f7c6d0a6f0b4a3c3d8f1a0d9b2c3d4e5f6
+        with:
+          github_user_name: Kipa53
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@d1f4d8c2b6a9f3a1c7e8d0b5f6a9c2d3e4f5a6b7
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
