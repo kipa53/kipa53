@@ -2,10 +2,5 @@
 Just for fun
 
 # SKILLS
-![My Skills](https://skillicons.dev/icons?i=py)
-![My Skills](https://skillicons.dev/icons?i=js)
-![My Skills](https://skillicons.dev/icons?i=html)
-![My Skills](https://skillicons.dev/icons?i=arduino)
-
-
+![Skills](https://skillicons.dev/icons?i=html,css,js,python,godot,arduino,git,github)
 
