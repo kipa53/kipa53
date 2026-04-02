@@ -11,10 +11,11 @@
 Game developer focused on building **gameplay systems** and **mechanics**.
 
 I like creating:
-- movement systems
-- stamina / sprint mechanics
-- AI behavior
-- game loops and prototypes
+- 2D games
+- Bad codes
+- Games in Godot
+- Will try anything fun
+- Don't be goyko
 
 Currently working mainly with Godot Engine.
 
@@ -27,16 +28,6 @@ Currently working mainly with Godot Engine.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-
-
-## 🐍 Contribution Snake
-
-> (This will work AFTER you enable snake workflow — optional)
-
-![snake gif](https://github.com/Kipa53/Kipa53/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
