@@ -2,5 +2,5 @@
 Just for fun
 
 # SKILLS
-![Skills](https://skillicons.dev/icons?i=html,css,js,python,godot,arduino,git,github)
+![Skills](https://skillicons.dev/icons?i=html,css,js,python,godot,arduino)
 
