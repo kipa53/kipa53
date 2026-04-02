@@ -2,7 +2,7 @@
 
 # Hi, I'm Kipa 🎮
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Game+Developer;Godot+Engine;pygame;ren'py;rpgmaker;Gameplay+Systems+Builder;)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Game+Developer;Godot+Engine;pygame;ren'py;rpgmaker;Python;)
 
 ---
 
