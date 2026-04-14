@@ -15,7 +15,6 @@ I like creating:
 - Bad codes
 - Games in Godot
 - Will try anything fun
-- Don't be goyko
 
 Currently working mainly with Godot Engine.
 
