@@ -35,10 +35,7 @@ Currently working mainly with Godot Engine.
 - 🎮 Godot Stamina Sprint System
 - 🤖 AI DOOM (Python + VizDoom)
 - 🕹️ Pygame mini games
-- 🚀 something hidden
-
----
-
+- arduino projects
 ## 🎯 Current Focus
 
 - Improving gameplay programming in Godot
