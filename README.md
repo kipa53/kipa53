@@ -12,10 +12,10 @@ Game developer focused on building **gameplay systems** and **mechanics**.
 
 I like creating:
 - 2D games
-- Bad codes
+- arduino project
+- learning new stuffs
 - Games in Godot
-- Will try anything fun
-
+- Will try anything fun 
 Currently working mainly with Godot Engine.
 
 ---
@@ -46,5 +46,4 @@ Currently working mainly with Godot Engine.
 ---
 
 ## 📫 Contact
-
 - GitHub: https://github.com/Kipa53
